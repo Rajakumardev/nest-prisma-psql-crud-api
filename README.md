@@ -1,1 +1,0 @@
-# nest-prisma-psql-crud-api
